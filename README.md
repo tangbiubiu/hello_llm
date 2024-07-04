@@ -34,4 +34,4 @@
 ## 协议📜
 本项目遵循[MIT](LICENSE)协议
 ## 联系我们📣
-![conetect_me](imgs\contect_me.jpg)
+Drop me an email at: tangyubiubiubiu@foxmail.com
