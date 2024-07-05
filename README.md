@@ -5,7 +5,7 @@
 ********
 ## 🤔项目介绍🤔
 这是一个用于学习从零构建RAG应用的仓库，我们旨在更好的交流和分享大模型应用开发技术。这个仓库的技术路线完全基于[Langchain-Chatcaht](https://github.com/chatchat-space/Langchain-Chatchat)项目给出的RAG原理图。![image.png](imgs/RAG.png)
-持续更新中...
+**持续更新中...**
 ## 安装🔧
 1. 克隆这个仓库到你的本地环境：
 
